@@ -1,8 +1,8 @@
-# Symbolic-Mathematical-AI-Manifest-Mini
+# Symbolic-Mathematical-AI-Manifest-Mini (SSM-AIM Mini)
+
 *A tiny, transparent, deterministic, offline AI reflection kernel.*
 
-![License](https://img.shields.io/badge/license-Open%20Standard-brightgreen?style=flat&logo=open-source-initiative)
-![Stars](https://img.shields.io/github/stars/OMPSHUNYAYA/Symbolic-Mathematical-AI-Manifest-Mini?style=flat&logo=github)
+![License](https://img.shields.io/badge/license-Open%20Standard-brightgreen?style=flat&logo=open-source-initiative) ![CI](https://github.com/OMPSHUNYAYA/Symbolic-Mathematical-AI-Manifest-Mini/actions/workflows/aimmini-ci.yml/badge.svg) ![Stars](https://img.shields.io/github/stars/OMPSHUNYAYA/Symbolic-Mathematical-AI-Manifest-Mini?style=flat&logo=github)
 
 ---
 
@@ -383,3 +383,5 @@ For a complete overview of all Shunyaya Symbolic Mathematics systems, visit:
 AIM-Mini, symbolic AI, offline AI, zero-centric alignment lane,  
 reflection kernels, tamper-evident memory, deterministic hashing,  
 Shunyaya Symbolic Mathematics, manifest-driven AI.
+
+---
