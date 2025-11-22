@@ -22,10 +22,12 @@ jobs:
       with:
         python-version: "3.11"
 
+    - name: Add project root to PYTHONPATH
+      run: echo "PYTHONPATH=$PWD/core" >> $GITHUB_ENV
+
     - name: Run AIM Mini Tests
       run: |
-        cd core
-        python ../tests/test_aim_utils.py
+        python tests/test_aim_utils.py
 
     - name: Confirm Success
       if: success()
