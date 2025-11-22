@@ -29,7 +29,7 @@ A growing list of common questions is available in the FAQ inside the `docs/` fo
 This document will be expanded over time as AIM Mini evolves.
 
 You can view it here:  
-`docs/FAQ.md`
+[docs/FAQ.md](docs/FAQ.md)
 
 ---
 
