@@ -33,6 +33,15 @@ You can view it here:
 
 ---
 
+## **Example Session (Real Output)**
+To understand how SSM-AIM Mini behaves in practice, a fully real transcript  
+(starting from folder setup → running the console → history → exit)  
+is available here:
+
+[examples/example_session_01.md](examples/example_session_01.md)
+
+---
+
 ## **File Integrity (SHA-256)**
 
 To ensure authenticity and prevent accidental modification, verify that the downloaded scripts match these SHA-256 digests:
@@ -384,4 +393,4 @@ AIM-Mini, symbolic AI, offline AI, zero-centric alignment lane,
 reflection kernels, tamper-evident memory, deterministic hashing,  
 Shunyaya Symbolic Mathematics, manifest-driven AI.
 
----
+
